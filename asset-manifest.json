@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/movie-trailer-app-react/static/css/main.20d050bd.css",
-    "main.js": "/movie-trailer-app-react/static/js/main.f699b48c.js",
+    "main.css": "/movie-trailer-app-react/static/css/main.b2fdcba6.css",
+    "main.js": "/movie-trailer-app-react/static/js/main.307cdcbf.js",
     "static/js/787.ab059028.chunk.js": "/movie-trailer-app-react/static/js/787.ab059028.chunk.js",
     "index.html": "/movie-trailer-app-react/index.html",
-    "main.20d050bd.css.map": "/movie-trailer-app-react/static/css/main.20d050bd.css.map",
-    "main.f699b48c.js.map": "/movie-trailer-app-react/static/js/main.f699b48c.js.map",
+    "main.b2fdcba6.css.map": "/movie-trailer-app-react/static/css/main.b2fdcba6.css.map",
+    "main.307cdcbf.js.map": "/movie-trailer-app-react/static/js/main.307cdcbf.js.map",
     "787.ab059028.chunk.js.map": "/movie-trailer-app-react/static/js/787.ab059028.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20d050bd.css",
-    "static/js/main.f699b48c.js"
+    "static/css/main.b2fdcba6.css",
+    "static/js/main.307cdcbf.js"
   ]
 }
