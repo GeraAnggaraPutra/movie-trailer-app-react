@@ -90,7 +90,7 @@ function App() {
               id="search"
               onInput={(event) => setSearchKey(event.target.value)}
             />
-            <button className="submit-search btn btn-outline-light btn-sm" type="submit">
+            <button className="submit-search" type="submit">
               Search
             </button>
           </form>

@@ -137,10 +137,12 @@ h1 {
 }
 
 .submit-search {
+    position: absolute;
     right: 5px;
     top: 5px;
-    margin-left: 3px;
-    border-radius: 17px;
+    background-color: transparent;
+    color:  white;
+    border: none;
     cursor: pointer;
 }
 
@@ -157,3 +159,4 @@ h1 {
 .wrap-movies {
     margin: 30px;
 }
+
