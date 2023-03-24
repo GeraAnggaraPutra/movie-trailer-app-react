@@ -137,11 +137,23 @@ h1 {
 }
 
 .submit-search {
-    position: absolute;
     right: 5px;
     top: 5px;
-    background-color: transparent;
-    color:  white;
-    border: none;
+    margin-left: 3px;
+    border-radius: 17px;
     cursor: pointer;
+}
+
+.card-body {
+    background-color: black;  
+}
+
+.rate {
+    display: grid;
+    color: white;
+    border: 1px solid white;
+}
+
+.wrap-movies {
+    margin: 30px;
 }
